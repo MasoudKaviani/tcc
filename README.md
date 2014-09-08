@@ -1,0 +1,4 @@
+tcc
+===
+
+Textarea characters counter
